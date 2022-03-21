@@ -25,15 +25,15 @@ function (string){
 ```
 
 | Input | Output |
-| ----- | ------ |
-|       |        | 
+|"Meow" | "0123" |
+|Rawr.TV| "0123456"| 
 |       |        | 
 |       |        | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>This program takes any inputted string and takes the indexes of each character in the string, adds it to the answer variable, and returns the indexes as a string. </td>
   </tr>
 </table>
 
